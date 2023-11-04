@@ -1,12 +1,12 @@
 <div align="center">
   
-  ### Hi there 👋 I'm a Software QA Engineer. My name is Max.
+  ### Hi, my name is Max. I'm a Software QA Engineer.
 </div>
 
 ##
 <div align="center">
 
-  ### ⚡My experience and skills
+  ### ⚡Experience and Skills
 </div>
 
 - Deep mind of Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC) and Defect Life Cycle by methodologies like Agile and Waterfall
@@ -26,14 +26,17 @@
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-8A2BE2?style=for-the-badge&logo=Markdown&logoColor=white)
+![SELENIUM WEBDRIVER](https://img.shields.io/badge/Selenium%20WebDriver-ce64d1?style=for-the-badge&logo=Selenium&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
+![WebStorm](https://img.shields.io/badge/WebStorm-b4c949?style=for-the-badge&logo=WebStorm&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-1572B6?style=for-the-badge&logo=Confluence&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-278160.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![Atom](https://img.shields.io/badge/Atom-909cde?style=for-the-badge&logo=Atom&logoColor=white)
     
 
 ##
